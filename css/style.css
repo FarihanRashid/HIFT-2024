@@ -1242,6 +1242,7 @@ h5,
 
 .widget-next-match {
   border: 1px solid rgba(255, 255, 255, 0.1);
+  overflow-x: auto; 
 }
 
 .widget-vs {
@@ -1283,6 +1284,7 @@ h5,
   color: #fff;
   background-color: #ee1e46;
   margin-bottom: 5px;
+  text-align: center;
 }
 
 .widget-title h3 {
