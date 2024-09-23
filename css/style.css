@@ -1239,7 +1239,9 @@ h5,
   font-weight: 700;
   font-size: 18px;
 }
-
+#scoreboard{
+  margin-bottom: 140px;
+}
 .widget-next-match {
   border: 1px solid rgba(255, 255, 255, 0.1);
   overflow-x: auto; 
@@ -1343,12 +1345,11 @@ h5,
   border: none;
 }
 
-body>div>div:nth-child(6) {
+#footer{
   margin: 0;
+  padding: 0;
   padding-top: 30px;
-  padding-bottom: 0;;
 }
-
 .footer-section {
   padding: 20px 0;
   font-size: 14px;
